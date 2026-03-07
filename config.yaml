@@ -22,13 +22,13 @@ my_pics:
     src: "/parvathyarun/IMG_6744.jpg"
     caption: "Our favourite pic together ♥"
   pic_2:
-    src: "/parvathyarun/IMG_6792.jpg"
+    src: "parvathyarun/IMG_6792.jpg"
     caption: "Our first outing!"
   pic_3:
-    src: "/parvathyarun/IMG_6782.jpg"
+    src: "/IMG_6782.jpg"
     caption: "Our first pic together."
   pic_4:
-    src: "/parvathyarun/IMG_6794.jpg"
+    src: "IMG_6794.jpg"
     caption: "First valentines day together!"
   pic_5:
     src: "/parvathyarun/IMG_6790.jpg"
