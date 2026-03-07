@@ -19,31 +19,31 @@ audio:
 # Replace the URLs below with your own photos.
 my_pics:
   pic_1:
-    src: "./IMG_6744.jpg"
+    src: "parvathyarun/IMG_6744.jpg"
     caption: "Our favourite pic together ♥"
   pic_2:
-    src: "parvathyarun/IMG_6792.jpg"
+    src: "parvathyarun/IMG_6792.JPG"
     caption: "Our first outing!"
   pic_3:
-    src: "IMG_6782.jpg"
+    src: "parvathyarun/IMG_6782.jpg"
     caption: "Our first pic together."
   pic_4:
-    src: "IMG_6794.jpg"
+    src: "parvathyarun/IMG_6794.jpg"
     caption: "First valentines day together!"
   pic_5:
-    src: "IMG_6790.jpg"
+    src: "parvathyarun/IMG_6790.JPG"
     caption: "My pretty girl!! "
 
 # ── IMAGES ──────────────────────────────────────────────
 image_count: 6
 
 images:
-  image_1: "IMG_6744.jpg"
-  image_2: "IMG_6792.jpg"
-  image_3: "IMG_6782.jpg"
-  image_4: "IMG_6794.jpg"
-  image_5: "IMG_6790.jpg"
-  image_6: "IMG_6748.jpg"
+  image_1: "parvathyarun/IMG_6744.jpg"
+  image_2: "parvathyarun/IMG_6792.JPG"
+  image_3: "parvathyarun/IMG_6782.jpg"
+  image_4: "parvathyarun/IMG_6794.jpg"
+  image_5: "parvathyarun/IMG_6790.JPG"
+  image_6: "parvathyarun/IMG_6748.jpg"
   image_7: ""
   image_8: ""
   image_9: ""
