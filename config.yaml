@@ -11,7 +11,7 @@ dedicated_to: "For you, always and forever ♥"
 # ── AUDIO ───────────────────────────────────────────────
 # Background music that plays on entry (requires user permission)
 audio:
-  source: "./Vittu_Pona_Vasalile.mp3"
+  source: "./Vittu-Pona-Vasalile.mp3"
   track_name: "Vittu pona vasalile."
 
 # ── MY PICS ─────────────────────────────────────────────
