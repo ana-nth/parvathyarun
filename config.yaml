@@ -19,19 +19,19 @@ audio:
 # Replace the URLs below with your own photos.
 my_pics:
   pic_1:
-    src: "parvathyarun/IMG_6744.jpg"
+    src: "/parvathyarun/IMG_6744.jpg"
     caption: "Our favourite pic together ♥"
   pic_2:
-    src: "parvathyarun/IMG_6792.jpg"
+    src: "/parvathyarun/IMG_6792.jpg"
     caption: "Our first outing!"
   pic_3:
-    src: "parvathyarun/IMG_6782.jpg"
+    src: "/parvathyarun/IMG_6782.jpg"
     caption: "Our first pic together."
   pic_4:
-    src: "parvathyarun/IMG_6794.jpg"
+    src: "/parvathyarun/IMG_6794.jpg"
     caption: "First valentines day together!"
   pic_5:
-    src: "parvathyarun/IMG_6790.jpg"
+    src: "/parvathyarun/IMG_6790.jpg"
     caption: "My pretty girl!! "
 
 # ── IMAGES ──────────────────────────────────────────────
