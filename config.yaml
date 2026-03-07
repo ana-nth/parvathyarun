@@ -1,0 +1,95 @@
+# ═══════════════════════════════════════════════════════
+# config.yaml — Cosmic Love Story Customization
+# Fill in your details below. Instructions in each section.
+# ═══════════════════════════════════════════════════════
+
+# ── STORY IDENTITY ──────────────────────────────────────
+title: "Parvathy"
+subtitle: "This one is just for you. Happy anniversary btw :)."
+dedicated_to: "For you, always and forever ♥"
+
+# ── AUDIO ───────────────────────────────────────────────
+# Background music that plays on entry (requires user permission)
+audio:
+  source: "./Vittu_Pona_Vasalile.mp3"
+  track_name: "Vittu pona vasalile."
+
+# ── MY PICS ─────────────────────────────────────────────
+# Your couple photos! These pop up beautifully while scrolling.
+# Replace the URLs below with your own photos.
+my_pics:
+  pic_1:
+    src: "/IMG_6744.jpg"
+    caption: "Our favourite pic together ♥"
+  pic_2:
+    src: "/IMG_6792.jpg"
+    caption: "Our first outing!"
+  pic_3:
+    src: "/IMG_6782.jpg"
+    caption: "Our first pic together."
+  pic_4:
+    src: "/IMG_6794.jpg"
+    caption: "First valentines day together!"
+  pic_5:
+    src: "/IMG_6790.jpg"
+    caption: "My pretty girl!! "
+
+# ── IMAGES ──────────────────────────────────────────────
+image_count: 6
+
+images:
+  image_1: "/IMG_6744.jpg"
+  image_2: "/IMG_6792.jpg"
+  image_3: "/IMG_6782.jpg"
+  image_4: "/IMG_6794.jpg"
+  image_5: "/IMG_6790.jpg"
+  image_6: "/IMG_6748.jpg"
+  image_7: ""
+  image_8: ""
+  image_9: ""
+  image_10: ""
+
+# ── VIDEOS ──────────────────────────────────────────────
+video_count: 1
+
+videos:
+  video_1:
+    source: "https://youtu.be/TRgUH2Ixv68?si=S28geGe6hf6r3zaa"
+    after_scene: 4
+
+  video_2:
+    source: ""
+    after_scene: 7
+
+# ── TEXTS ───────────────────────────────────────────────
+text_count: 10
+
+texts:
+  text_1: |
+    I once wondered, are you really the one? I lived inside that question. But you gave me every single sign that you were. I was just afraid of another heartbreak. Still, you held me close. 
+    I wanted you to be the most perfect person in the world, something no human can evr truly be. Not even me.
+  text_2: " Yet today, everything in this world - even the tiniest dust - tells me one thing : Iam deeply in love with PARVATHY ARUN. "
+
+  text_3: |
+    When I look back. I see it clearly. You are the best communicator i know, the best cook, the best rider, the best henna artist, the best lover. And simply the most beautiful girl I ever saw.
+
+  text_4: "I will wait for you until the end of time. I still remember your smell and i miss it. Even your mosturizer."
+
+  text_5: |
+    I made this video from start to finish. Not with effort, but with love. I hope you watch it. It takes us back to the day we  held eye contact for the first time :) 
+
+  text_6: |
+    I love every little thing about you. The way you say "Pattilyaaa" still echoes in my head. The way you scratch your face with your little fingers... its so cute. The way you bloop the cam after sending me a snap, im in love with it. Even the way you breathe, its pure beauty.
+
+  text_7: "You are the person I want to keep choosing. In this universe and in every version of it. I know the mistakes i made. And i promise you - i will become the best version you alweays wanted me to be. I will be the man who helps you fly higher. Im sorry for the mistakes i've done. "
+
+  text_8: |
+    I love you.
+    Yesterday. Today.
+    In every version of tomorrow
+    that this universe will ever hold.
+    Forever and always. ♥
+
+  text_9: " Last vare kandallo .. Ath maathy :) " 
+
+  text_10: "Edth chadi enthokeyo paranju nn ariyam. Ath njan nirthi. Ini angne parayilla."
