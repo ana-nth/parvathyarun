@@ -22,7 +22,7 @@ my_pics:
     src: "./IMG_6744.jpg"
     caption: "Our favourite pic together ♥"
   pic_2:
-    src: "IMG_6792.jpg"
+    src: "parvathyarun/IMG_6792.jpg"
     caption: "Our first outing!"
   pic_3:
     src: "IMG_6782.jpg"
