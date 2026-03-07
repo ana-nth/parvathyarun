@@ -22,7 +22,7 @@ my_pics:
     src: "parvathyarun/IMG_6744.jpg"
     caption: "Our favourite pic together ♥"
   pic_2:
-    src: "parvathyarun/IMG_6792.JPG"
+    src: "parvathyarun/IMG_6792.jpg"
     caption: "Our first outing!"
   pic_3:
     src: "parvathyarun/IMG_6782.jpg"
@@ -31,7 +31,7 @@ my_pics:
     src: "parvathyarun/IMG_6794.jpg"
     caption: "First valentines day together!"
   pic_5:
-    src: "parvathyarun/IMG_6790.JPG"
+    src: "parvathyarun/IMG_6790.jpg"
     caption: "My pretty girl!! "
 
 # ── IMAGES ──────────────────────────────────────────────
@@ -39,10 +39,10 @@ image_count: 6
 
 images:
   image_1: "parvathyarun/IMG_6744.jpg"
-  image_2: "parvathyarun/IMG_6792.JPG"
+  image_2: "parvathyarun/IMG_6792.jpg"
   image_3: "parvathyarun/IMG_6782.jpg"
   image_4: "parvathyarun/IMG_6794.jpg"
-  image_5: "parvathyarun/IMG_6790.JPG"
+  image_5: "parvathyarun/IMG_6790.jpg"
   image_6: "parvathyarun/IMG_6748.jpg"
   image_7: ""
   image_8: ""
