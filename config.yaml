@@ -19,7 +19,7 @@ audio:
 # Replace the URLs below with your own photos.
 my_pics:
   pic_1:
-    src: "IMG_6744.jpg"
+    src: "./IMG_6744.jpg"
     caption: "Our favourite pic together ♥"
   pic_2:
     src: "IMG_6792.jpg"
